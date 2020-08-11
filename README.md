@@ -1,5 +1,5 @@
 # Final Project for Madalyn Miles 
-Here is a [link](https://docs.google.com/spreadsheets/d/1xzr5JB9ig4qz5SpdPSG-6QAJSdtKPnC2XU5ruo28UK8/edit#gid=0) to the .csv file
+
 
 ![Chart of overall drug use by age](https://docs.google.com/spreadsheets/d/e/2PACX-1vTdXmIZb5FXP7sn-6MKcUoFPBHwpqloKLOpc8L5HajMO2RGyqJGAmseD6jX0CvG_7JWBNMgwwY8jCD3/pubchart?oid=1259785085&format=image)
 
