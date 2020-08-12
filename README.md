@@ -20,7 +20,7 @@ Initially, this data had a lot of information that I decided not work on, so I e
 
 * To find out which age group seems to be using drugs the most, I *sorted* the sample size column in descending order and was surprised to find that ages 35-39 won by a large margin.
 
-![Chart of overall drug use by age](https://docs.google.com/spreadsheets/d/e/2PACX-1vTdXmIZb5FXP7sn-6MKcUoFPBHwpqloKLOpc8L5HajMO2RGyqJGAmseD6jX0CvG_7JWBNMgwwY8jCD3/pubchart?oid=1259785085&format=image)
+![Chart of overall drug use by age](https://docs.google.com/spreadsheets/d/e/2PACX-1vTdXmIZb5FXP7sn-6MKcUoFPBHwpqloKLOpc8L5HajMO2RGyqJGAmseD6jX0CvG_7JWBNMgwwY8jCD3/pubchart?oid=1259785085&format=interactive)
 
 *Drug types include: Alcohol, marijuana, pain reliever, tranquilizer, cocaine, crack, oxycontin, stimulant, hallucinogen, sedative, inhalant, meth, and heroin.
  
