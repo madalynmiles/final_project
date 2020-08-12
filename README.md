@@ -49,7 +49,7 @@ One reason for the high alcohol consumption relative to other drogs is that alco
 This is could represent younger families or young, working married couples, the former typically keeping drugs out of the house, the latter likely would not have much time for largely recreational drug-use. 
 
 
-# Notes
+#### Notes
 
 **Hiccups along the way**:
 As part of my personal cleaning process, I calculated total count of uses for every drug type for every age, but soon realized that the percentage would be just as effective to visualize on a chart, especially when comparing age-groups and usage. I ended up deleted these columns and calculations and going with the original percentages provided. Still, it provided valuable practice in visualizing how I wanted my data to be represented, as well as using and populatinng calculation formulas in google sheets. 
