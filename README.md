@@ -7,16 +7,16 @@
 
 
 
-Description of Data:
+**Description of Data**:
 
 This data was retrieved from a fivethirtyeight dataset set called "Drug Use By Age", uploaded by Andrew Flowers. I was easily able to load the original .csv file from his Github page into a new google sheet to clean the data for the purposes I wanted to use if for, and interrogate it.
 
-Cleaning the Data: 
+**Cleaning the Data**: 
 
 Initially, this data had a lot of information that I decided not work on, so I ended up deleting it in order to paste it into a new data sheet and make it into tables. The median number of times people in a given age group used a given job was not something that I had time to analyze, so I removed it from my original .csv file to ensured that I could look at a clean dataset and analyze the columns I wanted to visualize as charts. 
 
 
-Interrogating the Data:
+**Interrogating the Data**:
 
 * To find out which age group seems to be using drugs the most, I sorted the sample size column in descending order and was surprised to find that ages 35-39 won by a large margin.
 
@@ -29,7 +29,7 @@ Seems the long workdays are hitting these middle-agers hard. Or maybe it's just 
 I then wondered: What drug is sending these empty nesters over the edge? To find out, I did a quick sort. 
 
 
-Analysis: 
+**Analysis**: 
 
 * Why do people ages 35-39 appear to be so drug happy? To my surprise, a quick sort reveleaed to me that the percentage of 35-39 year-olds who used **alcohol** in 2012 was nearly *eight* times as high as other drugs. 
 
