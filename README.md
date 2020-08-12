@@ -1,94 +1,53 @@
-# Final Project for Madalyn Miles 
-Title:
-Subhead:
-Byline: 
+# Middle-agers May Be The Highest Drug Users of All (No Pun Intended) 
 
-Intro: 
-Background: 
+# # Study from the National Survey on Drug Use and Health from the Substance Abuse and Mental Health Data Archive reveals demographic breakdown of drug users, and the drugs they used. 
 
-Description: 
+By: Madalyn Miles  
 
+Description of data: I retrieved this data from fivethirtyeight and was easily able to load it into google sheets to clean and interrogate. The .csv file is linked in my repository. 
+
+
+Cleaning the Data: 
+
+Initially, this data had a lot of information that I decided not work on, so I ended up deleting it in order to paste it into a new data sheet and make it into tables. The median number of times people in a given age group used a given job was not something that I had time to analyze, so I removed it from my original .csv file to ensured that I could look at a clean dataset and analyze the columns I wanted to visualize as charts. 
+
+
+Interrogating the Data:
+
+* To find out which age group seems to be using drugs the most, I sorted the sample size column in descending order and was surprised to find that ages 35-39 won by a large margin.
 
 ![Chart of overall drug use by age](https://docs.google.com/spreadsheets/d/e/2PACX-1vTdXmIZb5FXP7sn-6MKcUoFPBHwpqloKLOpc8L5HajMO2RGyqJGAmseD6jX0CvG_7JWBNMgwwY8jCD3/pubchart?oid=1259785085&format=image)
 
 *Drug types include: Alcohol, marijuana, pain reliever, tranquilizer, cocaine, crack, oxycontin, stimulant, hallucinogen, sedative, inhalant, meth, and heroin.
+ 
+Seems the long workdays are hitting these middle-agers hard. Or maybe it's just a mid-life crisis. 
 
-Cleaning: 
+I then wondered: What drug is sending these empty nesters over the edge? To find out, I did a quick sort. 
 
-1. Here is a list
-2. Another item 
-3. Third item
-
-* Here is a bulleted list 
-* Another item
-* Third item 
-
-![Picture of a cat](https://placekitten.com/400/300)
 
 Analysis: 
 
-One may wonder: why do people ages 35-39 appear to be so drug happy?
+* Why do people ages 35-39 appear to be so drug happy? To my surprise, a quick sort reveleaed to me that the percentage of 35-39 year-olds who used **alcohol** in 2012 was nearly *eight* times as high as other drugs. 
 
-Look at the data and you'll see why: 
-
-
-[pie]
+<iframe title="Types of drugs 39 year-olds said they used in the past 12 months" aria-label="Bar Chart" id="datawrapper-chart-ngbFk" src="https://datawrapper.dwcdn.net/ngbFk/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="427"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
+</script>
 
 
 
-As you can see, alcohol sweeps the other drugs in terms of usage for the 35-89 age bracket.
-
-Seems the long workdays are hitting these middle-agers hard. Or maybe it's a mid-life crisis. 
-
-But is alcohol so much greater than the other age groups? 
-
-In comparison, the award for runner-up alcoholics/second-place in alcohol consumption goes to: _____
-
-Now let's take a closer look at the data without alcochol. 
+One reason for the high alcohol consumption relative to other drogs is that alcohol is legal, unlike meth and heroin for example. Alcohol is also one of the more socially accepted drugs. Individuals are more likely to report using alcohol at least in the past over a more taboo drug such as marijuana. 
 
 
 
-[bar]
+* Another interesting thing the data shows a significant drop in drug use from the 35-39 to the 22-23 age group, almost by 60 percent. Indeed, low drug use percentages are seen in essentially all the age groups from age 12 to age 34. 
+This is could represent younger families or young, working married couples, the former typically keeping drugs out of the house, the latter likely would not have much time for largely recreational drug-use. 
 
 
+# Notes
 
-The second most popular drug is marijuana. 
-
-Note how in this chart, marijuana is a lot more popular for age group 18+ (create an age group with open reform)/there is a big gap between these age groups:  
-
-
-
-[bar]
-
-
-
-Let's take a closer look at the data for pain-relievers. 
-
-You can see that marijuana is over half as popular as pain-relievers for 35-39 year-olds. 
-
-However, when you look at the data for 35-59 or 60+, you will see that pain-relievers is the number one.
-
-
-
-[bar]
-
-
-
-
-
-More text.
-
-The formula I used was:
-
-```
-=VLOOKUP("Something", A2:A57, 1, false)
-```
+Hiccups along the way:
+As part of my personal cleaning process, I calculated total count of uses for every drug type for every age, but soon realized that the percentage would be just as effective to visualize on a chart, especially when comparing age-groups and usage. I ended up deleted these columns and calculations and going with the original percentages provided. Still, it provided valuable practice in visualizing how I wanted my data to be represented, as well as using and populatinng calculation formulas in google sheets. 
 
 Limitations of the data: 
+The data did not have any information on meth for the 65+ age group. 
 
-Conclusion: 
 
-Overall, 
-
-<iframe title="Total Backlogged Cases in the U.S. Immigration Courts Hits Historic Highs" aria-label="Interactive line chart" id="datawrapper-chart-bRy0Y" src="https://datawrapper.dwcdn.net/bRy0Y/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
-</script>
