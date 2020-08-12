@@ -46,10 +46,10 @@ This is could represent younger families or young, working married couples, the 
 
 # Notes
 
-Hiccups along the way:
+**Hiccups along the way**:
 As part of my personal cleaning process, I calculated total count of uses for every drug type for every age, but soon realized that the percentage would be just as effective to visualize on a chart, especially when comparing age-groups and usage. I ended up deleted these columns and calculations and going with the original percentages provided. Still, it provided valuable practice in visualizing how I wanted my data to be represented, as well as using and populatinng calculation formulas in google sheets. 
 
-Limitations of the data: 
+**Limitations of the data**: 
 The data did not have any information on meth for the 65+ age group. 
 
 
