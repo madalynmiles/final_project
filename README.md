@@ -18,7 +18,7 @@ Initially, this data had a lot of information that I decided not work on, so I e
 
 **Interrogating the Data**:
 
-* To find out which age group seems to be using drugs the most, I sorted the sample size column in descending order and was surprised to find that ages 35-39 won by a large margin.
+* To find out which age group seems to be using drugs the most, I *sorted* the sample size column in descending order and was surprised to find that ages 35-39 won by a large margin.
 
 ![Chart of overall drug use by age](https://docs.google.com/spreadsheets/d/e/2PACX-1vTdXmIZb5FXP7sn-6MKcUoFPBHwpqloKLOpc8L5HajMO2RGyqJGAmseD6jX0CvG_7JWBNMgwwY8jCD3/pubchart?oid=1259785085&format=image)
 
@@ -26,15 +26,20 @@ Initially, this data had a lot of information that I decided not work on, so I e
  
 Seems the long workdays are hitting these middle-agers hard. Or maybe it's just a mid-life crisis. 
 
-I then wondered: What drug is sending these empty nesters over the edge? To find out, I did a quick sort. 
+I then wondered: What drug is sending these middle-agers over the edge? 
+
+- To find out, I created a *filter* and did a simple descending-order *sort*. I saw **alcohol-use (%)** jump to the top. To my surprise, the percentage of 35-39 year-olds who used **alcohol** in 2012 was nearly *eight* times as high as other drugs. 
+
+- Next, I created a *pivot table* using "age" as the row and alcohol-use (%) as the value to in order to begin my next step: visualizing my interrogation. 
+
+<iframe title="Types of drugs 39 year-olds said they used in the past 12 months" aria-label="Bar Chart" id="datawrapper-chart-ngbFk" src="https://datawrapper.dwcdn.net/ngbFk/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="427"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
+</script>
 
 
 **Analysis**: 
 
-* Why do people ages 35-39 appear to be so drug happy? To my surprise, a quick sort reveleaed to me that the percentage of 35-39 year-olds who used **alcohol** in 2012 was nearly *eight* times as high as other drugs. 
+* So, why do people ages 35-39 appear to be so drug-happy? 
 
-<iframe title="Types of drugs 39 year-olds said they used in the past 12 months" aria-label="Bar Chart" id="datawrapper-chart-ngbFk" src="https://datawrapper.dwcdn.net/ngbFk/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="427"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
-</script>
 
 
 One reason for the high alcohol consumption relative to other drogs is that alcohol is legal, unlike meth and heroin for example. Alcohol is also one of the more socially accepted drugs. Individuals are more likely to report using alcohol at least in the past over a more taboo drug such as marijuana. 
