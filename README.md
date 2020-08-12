@@ -1,6 +1,6 @@
 # Study Reveals That Middle-Agers May Be The *Highest Drug Users of All 
 
-### *A 2012 study from the National Survey on Drug Use and Health from the Substance Abuse and Mental Health Data Archive reveals demographic breakdown of drug users and the drugs they used. 
+### A 2012 study from the National Survey on Drug Use and Health from the Substance Abuse and Mental Health Data Archive reveals demographic breakdown of drug users and the drugs they used. 
 ###### *(no pun intended) 
 
 ##### By: Madalyn Miles  
@@ -34,6 +34,7 @@ I then wondered: What drug is sending these middle-agers over the edge?
 
 <iframe title="Types of drugs 39 year-olds said they used in the past 12 months" aria-label="Bar Chart" id="datawrapper-chart-ngbFk" src="https://datawrapper.dwcdn.net/ngbFk/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="427"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
 </script>
+
 
 
 **Analysis**: 
