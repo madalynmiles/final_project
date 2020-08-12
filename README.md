@@ -1,10 +1,12 @@
-# Middle-Agers May Be The Highest Drug Users of All (No Pun Intended) 
+# Middle-Agers May Be The Highest Drug Users of All 
 
-## Study from the National Survey on Drug Use and Health from the Substance Abuse and Mental Health Data Archive reveals demographic breakdown of drug users, and the drugs they used. 
+######(No Pun Intended) 
 
-By: Madalyn Miles  
+### Study from the National Survey on Drug Use and Health from the Substance Abuse and Mental Health Data Archive reveals demographic breakdown of drug users and the drugs they used. 
 
-Description of data: I retrieved this data from fivethirtyeight and was easily able to load it into google sheets to clean and interrogate. The .csv file is linked in my repository. 
+##### By: Madalyn Miles  
+
+Description of Data: This data was retrieved from a fivethirtyeight dataset set called "Drug Use By Age". I was easily able to load the original .csv file into a google sheet to clean and interrogate. 
 
 
 Cleaning the Data: 
@@ -33,9 +35,7 @@ Analysis:
 </script>
 
 
-
 One reason for the high alcohol consumption relative to other drogs is that alcohol is legal, unlike meth and heroin for example. Alcohol is also one of the more socially accepted drugs. Individuals are more likely to report using alcohol at least in the past over a more taboo drug such as marijuana. 
-
 
 
 * Another interesting thing the data shows a significant drop in drug use from the 35-39 to the 22-23 age group, almost by 60 percent. Indeed, low drug use percentages are seen in essentially all the age groups from age 12 to age 34. 
