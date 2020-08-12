@@ -1,6 +1,6 @@
 # Study Reveals That Middle-Agers May Be The *Highest Drug Users of All 
 
-### A 2012 study from the National Survey on Drug Use and Health from the Substance Abuse and Mental Health Data Archive reveals demographic breakdown of drug users and the drugs they used. 
+### *A 2012 study from the National Survey on Drug Use and Health from the Substance Abuse and Mental Health Data Archive reveals demographic breakdown of drug users and the drugs they used. 
 ###### *(no pun intended) 
 
 ##### By: Madalyn Miles  
