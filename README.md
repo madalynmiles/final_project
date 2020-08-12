@@ -5,7 +5,9 @@
 
 ##### By: Madalyn Miles  
 
-Description of Data: This data was retrieved from a fivethirtyeight dataset set called "Drug Use By Age". I was easily able to load the original .csv file into a google sheet to clean and interrogate. 
+Description of Data:
+
+This data was retrieved from a fivethirtyeight dataset set called "Drug Use By Age". I was easily able to load the original .csv file into a google sheet to clean and interrogate. 
 
 
 Cleaning the Data: 
